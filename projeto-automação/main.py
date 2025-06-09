@@ -17,13 +17,13 @@ def obter_clima(cidade, chave_api):
         print(f"sensação térmica: {sensacao}°C")
         print(f"condição: {descricao}")
 
-        # Exemplo de automação simples
+        # alertas
         if temp > 30:
             print(" alerta: está muito quente, ative o resfriamento!")
         elif "chuva" in descricao:
             print(" cuidado: está chovendo, verifique coberturas!")
     else:
-        print(" erro ao obter dados.")
+        print(" erro ao obter dados. verifique se digitou corretamente.")
 
 # ---- CONFIG ----
 cidade = input("digite o nome da cidade: ")
