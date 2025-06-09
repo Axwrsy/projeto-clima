@@ -1,6 +1,6 @@
 # Automação Climática IOT com Python
 
-Este projeto em Python utiliza a API gratuita do **OpenWeather** para obter informações climáticas em tempo real de qualquer cidade do mundo. Ele interpreta os dados e simula **ações automatizadas**, como alertas de calor ou chuva — ideal para aplicações futuras em **automação residencial** e **monitoramento de plantas**. 
+Este projeto em Python utiliza a API gratuita do **OpenWeather** para obter informações climáticas em tempo real de qualquer cidade do mundo. Ele interpreta os dados e simula **ações automatizadas**, como alertas de calor ou chuva ideal para aplicações futuras em **automação residencial** e **monitoramento de plantas**. 
 
 ---
 
